@@ -9,6 +9,7 @@ function generateImagePaths(prefix, start, end, extension) {
   }
   return paths;
 }
+//hello
 
 // Define the range of image files
 const imagePrefix = 'page';
